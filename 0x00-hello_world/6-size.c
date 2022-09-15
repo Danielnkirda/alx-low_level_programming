@@ -1,4 +1,4 @@
-#inclu#include <stdio.h>
+#include <stdio.h>
 
 /**
  * main - print differnt var sizes
